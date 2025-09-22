@@ -2,7 +2,6 @@
   "engines": {
     "node": "23.7.0"
   },
-  
   "name": "gdg_projectt",
   "version": "1.0.0",
   "description": "",
@@ -20,7 +19,7 @@
     "bytes": "^3.1.2",
     "call-bind-apply-helpers": "^1.0.2",
     "call-bound": "^1.0.4",
-    "cloudinary": "^2.7.0",
+    "cloudinary": "^1.41.0",
     "cloudinary-core": "^2.14.0",
     "concat-stream": "^2.0.0",
     "content-disposition": "^1.0.0",
